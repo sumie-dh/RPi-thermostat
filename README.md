@@ -1,6 +1,6 @@
 # RPi-thermostat
 
-Thermostat for RPi using  DS18B20 sensor, WiringPi and Tempita
+Thermostat for RPi using  DS18B20 sensor, WiringPi and Tempita for mailing notification
 
 Configuration of DS18B20 sensor and stuff around "checktemp" command :http://www.reuk.co.uk/DS18B20-Temperature-Sensor-with-Raspberry-Pi.htm
 <br>download adn install Tempita: apt-get install python-tempita
